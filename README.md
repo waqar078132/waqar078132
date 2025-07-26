@@ -1,4 +1,4 @@
-# 🚀 Waqar Ahmed (IM07813) - Full Stack AI Developer & Azure Data Scientist 
+# 🚀 Waqar Ahmed (waqar078132) - Full Stack AI Developer & Azure Data Scientist 
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-ahmed-a31310258/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IM07813)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waqar078132)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/im07813)
 [![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/Waqar07813)
 
@@ -89,15 +89,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IM07813&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM07813&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=IM07813&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
+### 📈 Real-Time Stats (Updates Automatically)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=waqar078132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar078132&layout=compact&langs_count=8&theme=tokyonight"/>
+
+### 🔥 Live Contribution Streak
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=waqar078132&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" />
+
+### 📊 Detailed Activity Graph
+[![Waqar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=waqar078132&theme=tokyo-night&hide_border=true&area=true)](https://github.com/waqar078132)
+
+### ⚡ Live Metrics Dashboard
+![GitHub metrics](https://metrics.lecoq.io/waqar078132?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FKarachi)
+
 </div>
 
 ---
@@ -163,6 +171,25 @@
 
 ---
 
+## 🔥 Live Activity Feed
+
+<div align="center">
+
+### 📝 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### ⏰ Latest Commits Timeline
+![Recent Commits](https://img.shields.io/github/last-commit/waqar078132/waqar078132?label=Last%20Profile%20Update&style=for-the-badge&logo=github&color=blue)
+
+### 📊 This Week's Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
 ## 🤝 Let's Collaborate!
 
 <div align="center">
@@ -179,6 +206,12 @@
 ### 📧 Get In Touch
 [![Email](https://img.shields.io/badge/Email-waqar078132@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqar078132@gmail.com)
 
+### 📈 Live Repository Stats
+![Total Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/waqar078132&style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=Total%20Stars&query=$.%5B%2A%5D.stargazers_count&url=https://api.github.com/users/waqar078132/repos&style=for-the-badge&logo=star)
+![Followers](https://img.shields.io/github/followers/waqar078132?label=Followers&style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/dynamic/json?color=green&label=Following&query=following&url=https://api.github.com/users/waqar078132&style=for-the-badge&logo=github)
+
 </div>
 
 ---
@@ -186,6 +219,23 @@
 ## 🎵 Fun Zone
 
 <div align="center">
+
+### 🎮 When I'm not coding, you can find me:
+```javascript
+const waqar = {
+    code: ["Python", "JavaScript", "C++"],
+    askMeAbout: ["AI", "Full Stack Dev", "Cloud", "Gaming"],
+    technologies: {
+        frontEnd: ["React", "HTML", "CSS"],
+        backEnd: ["Django", "FastAPI", "Node.js"],
+        databases: ["PostgreSQL", "MongoDB"],
+        ai: ["TensorFlow", "PyTorch", "Hugging Face"],
+        cloud: ["Azure", "AWS"]
+    },
+    currentlyLearning: ["Advanced MLOps", "Quantum Computing"],
+    funFact: "I can debug code faster than I can find my keys! 🔍🗝️"
+};
+```
 
 ### 🎯 2024 Goals
 - [ ] Contribute to 10+ Open Source AI Projects
@@ -208,11 +258,11 @@
 
 **"Building the future, one algorithm at a time"** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=IM07813&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/IM07813?label=Follow&style=social)](https://github.com/IM07813)
+![Profile Views](https://komarev.com/ghpvc/?username=waqar078132&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/waqar078132?label=Follow&style=social)](https://github.com/waqar078132)
 
 ---
 
-⭐️ **From [IM07813](https://github.com/IM07813)** - *Let's innovate together!*
+⭐️ **From [waqar078132](https://github.com/waqar078132)** - *Let's innovate together!*
 
 </div>

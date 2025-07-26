@@ -177,7 +177,7 @@
 - 🚀 **Innovative Tech Startups**
 
 ### 📧 Get In Touch
-[![Email](https://img.shields.io/badge/Email-freespirited07813@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freespirited07813@gmail.com)
+[![Email](https://img.shields.io/badge/Email-waqar078132@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqar078132@gmail.com)
 
 </div>
 
@@ -186,23 +186,6 @@
 ## 🎵 Fun Zone
 
 <div align="center">
-
-### 🎮 When I'm not coding, you can find me:
-```javascript
-const waqar = {
-    code: ["Python", "JavaScript", "C++"],
-    askMeAbout: ["AI", "Full Stack Dev", "Cloud", "Gaming"],
-    technologies: {
-        frontEnd: ["React", "HTML", "CSS"],
-        backEnd: ["Django", "FastAPI", "Node.js"],
-        databases: ["PostgreSQL", "MongoDB"],
-        ai: ["TensorFlow", "PyTorch", "Hugging Face"],
-        cloud: ["Azure", "AWS"]
-    },
-    currentlyLearning: ["Advanced MLOps", "Quantum Computing"],
-    funFact: "I can debug code faster than I can find my keys! 🔍🗝️"
-};
-```
 
 ### 🎯 2024 Goals
 - [ ] Contribute to 10+ Open Source AI Projects
